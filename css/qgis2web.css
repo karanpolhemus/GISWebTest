@@ -32,8 +32,8 @@
             border-top: unset!important;
         }
         .leaflet-popup-content{
-            max-height: 70vh;
-            max-width: 70vw;
+            max-height: 90vh;
+            max-width: 90vw;
         }
         .leaflet-popup-content.media{
             width: auto!important;
